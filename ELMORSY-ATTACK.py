@@ -8,7 +8,8 @@ B = "\033[34m"    # Blue
 Y = "\033[33m"    # Yellow
 G = "\033[32m"    # Green
 W = "\033[0m"     # White
-R = "\033[31m"    # Rede                            
+R = "\033[31m"    # Rede 
+print("")
 print("    888888888888888888888 ")
 print("  s 88 ooooooooooooooo 88     s 888888888888888888888888888888888888888 ")
 print("  S 88 888888888888888 88    SS 888888888888888888888888888888888888888 ")
@@ -62,5 +63,3 @@ for h in range(500):
   except :
     print(R+"no Doos in ip ",ip)
 #   print(C+"                     no problem in the ip",YY,ip)
-
-      
