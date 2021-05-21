@@ -21,10 +21,10 @@ print("SSS 88 888888888888888 88 SSSSS 8888 DDOSS ATTACK ELMORSY          8888 "
 print("SSS 88 888888888888888 88 SSSSS 8888 So for Palestine beloved      8888 ")
 print("SSS 88 oooooooooo      88 SSSSS 8888 ELmorsy supports              8888 ")
 print("SSS 88 8888888888 .::. 88 SSSSS 8888   the Palestinian cause       8888 ")
-print("SSS 88 oooooooooo :::: 88 SSSSS 8888                               8888 ")
-print("SSS 88 8888888888  `   88 SSSSS 8888                               8888 ")
-print("SSS 88ooooooooooooooooo88 SSSS 8888 سكرتير ابليس/عبدالله المرسي يتضامن معا فلسطين
-print("SSS 888888888888888888888  SSSS 8888 عبدالله المرسي يقول كسم اسرائيل وباعلي صوت
+print("SSS 88 oooooooooo :::: 88 SSSSS 8888  KOSOM ISRAEL                 8888 ")
+print("SSS 88 8888888888  `   88 SSSSS 8888  FAKYOU ISRAEL                8888 ")
+print("SSS 88ooooooooooooooooo88 SSSSS 8888                               8888 ")
+print("SSS 888888888888888888888 SSSSS 8888                               8888 ")
 print("SSS |   *  *  *   )8c8888   SSSS 888888888888888888888888888888888888888 ")
 print("SSS 888888888888888888888.  SSS 888888888888888888888888888888888888888 ")
 print("SSS 888888888888888888888 \_ SSsssss oooooooooooooooooooooooooooo ssss ")
