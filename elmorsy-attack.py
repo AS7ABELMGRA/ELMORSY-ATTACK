@@ -11,12 +11,12 @@ import sys
 print ( 
   
  | |""""""""""""|======[***| +----------------------|
- |  ELMORSY   \            | Egyptian hacker/:-     |
- |_____________\_______    | Abdalla elmorsy        |
- |==[MORSY>]===========\   | SECRTER EBLES.         |
- |______________________\  |For the sake of beloved |
- \(@)(@)(@)(@)(@)(@)(@)/   | Palestine.             |
- ************************  | t.m/AS7AB ELMGRA       |    
+ | ELMORSY  \             | Egyptian-hacker/:-     |
+ |____________\_______    | Abdalla-elmorsy        |
+ |==[MORSY>]===========\   | SECRTER-EBLES.         |
+ |______________________\  |For-the-sake-of-beloved |
+ \(@)(@)(@)(@)(@)(@)(@)/   |Palestine.              |
+ ************************  | t.m/AS7AB-ELMGRA       |    
   +--------------------------+-----------------------     )
 
 useragents=["Mozilla/5.0 (Android; Linux armv7l; rv:10.0.1) Gecko/20100101 Firefox/10.0.1 Fennec/10.0.1",
